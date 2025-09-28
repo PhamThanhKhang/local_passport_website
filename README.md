@@ -19,17 +19,17 @@ node app.js
 # Kết quả test - Local Passport Website
 
 ## 1. Đăng ký (Register)
-![Register](result_test_img/register.png)
+![Register](ressult_test_img/register.png)
 
 ---
 
 ## 2. Đăng nhập (Login)
-![Login](result_test_img/login.png)
+![Login](ressult_test_img/login.png)
 
 ---
 
 ## 3. Trang Profile (sau khi Login)
-![Profile](result_test_img/profile_afterLogin.png)
+![Profile](ressult_test_img/profile_afterLogin.png)
 
 ---
 
